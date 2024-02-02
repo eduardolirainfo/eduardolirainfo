@@ -7,9 +7,9 @@ Full Stack Developer
 I want to make a difference in people's lives, save lives and make development processes as easy as possible through technology with conscious software programming.
 
 * 🌍  I'm based in Rio de Janeiro
-* 🖥️  See my portfolio at [https://github.com/eduardolirainfo](http://https://eduardolira.dev.br)
+* 🖥️  See my portfolio at [https://github.com/eduardolirainfo](https://eduardolira.dev.br)
 * ✉️  You can contact me at [eduardolirainfo@gmail.com](mailto:eduardolirainfo@gmail.com)
-* 🚀  I'm currently working on [Sofis Tecnologia](http://https://www.sofis.com.br/)
+* 🚀  I'm currently working on [Sofis Tecnologia](https://www.sofis.com.br/)
 * 🧠  I'm learning Flask
 
 ### Skills
