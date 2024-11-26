@@ -1,51 +1,66 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eduardo Lira
-====================================================================================================================================
+"# Hi there! 👋 I'm Eduardo Lira
 
-Full Stack Developer
---------------------
+## 🚀 Full Stack Developer | Conscious Software Programming
 
-I want to make a difference in people's lives, save lives and make development processes as easy as possible through technology with conscious software programming.
+I'm passionate about leveraging technology to make a meaningful difference in people's lives. My approach to software development goes beyond code—it's about creating solutions that are not just functional, but also purposeful and impactful.
 
-* 🌍  I'm based in Rio de Janeiro
-* 🖥️  See my portfolio at [https://github.com/eduardolirainfo](https://eduardolira.dev.br)
-* ✉️  You can contact me at [eduardolirainfo@gmail.com](mailto:eduardolirainfo@gmail.com)
-* 🚀  I'm currently working on [Sofis Tecnologia](https://www.sofis.com.br/)
-* 🧠  I'm learning FastApi
+### 🌍 About Me
+- 📍 Based in Rio de Janeiro, Brazil
+- 💼 Currently working at [Sofis Tecnologia](https://www.sofis.com.br/)
+- 🧠 Continuous Learning: Currently diving deep into FastAPI and expanding my backend development skills
 
-### Skills
+### 💻 Technical Skills
 
+#### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-3178C6?logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-Intermediate-777BB4?logo=php&logoColor=white)
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-</p>
+#### Frontend Technologies
+![React](https://img.shields.io/badge/React-Advanced-61DAFB?logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Advanced-1572B6?logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Advanced-38B2AC?logo=tailwind-css&logoColor=white)
 
+#### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933?logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Intermediate-000000?logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-336791?logo=postgresql&logoColor=white)
 
-### Socials
+### 🚧 Key Projects
 
-<p align="left"> <a href="https://www.codepen.io/dudulira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/eduardolirainfo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dudulira/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://eduardolira.dev.br/rss.xml" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/dudulira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/eduardolirainfo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/duduliralira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+#### 1. [Project Name]
+- Brief description of the project
+- Technologies: React, Node.js, PostgreSQL
+- [Link to Project Repository]
 
-### Badges
+#### 2. [Another Project Name]
+- Brief description of the project
+- Technologies: Python, Flask, MongoDB
+- [Link to Project Repository]
 
-<b>My GitHub Stats</b>
+### 🌱 Learning Journey
+**Currently Exploring:**
+- Advanced FastAPI techniques
+- Microservices architecture
+- Performance optimization strategies
 
-<a href="http://www.github.com/eduardolirainfo"><img src="https://github-readme-stats.vercel.app/api?username=eduardolirainfo&show_icons=true&hide=issues,contribs&count_private=true&title_color=84cc16&text_color=facc15&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="eduardolirainfo's GitHub stats" /></a>
+### 📊 GitHub Stats
 
-### Support Me
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardolirainfo&show_icons=true&theme=radical)
 
-<a href="https://www.buymeacoffee.com/eduardolirainfo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolirainfo&layout=compact&theme=radical)
+
+### 🤝 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo_Lira-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dudulira/)
+[![GitHub](https://img.shields.io/badge/GitHub-@eduardolirainfo-181717?logo=github&logoColor=white)](https://github.com/eduardolirainfo)
+[![Twitter](https://img.shields.io/badge/Twitter-@dudulira-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/dudulira)
+
+### 💡 Professional Philosophy
+"Technology is not just about writing code, but about creating conscious solutions that can genuinely improve people's lives. Each line of code is an opportunity to make a positive impact."
+
+### Support My Work
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/eduardolirainfo)"
