@@ -12,34 +12,22 @@ Sou apaixonado por usar a tecnologia para fazer uma diferença significativa na 
 ### 💻 Habilidades Técnicas
 
 #### Linguagens
-![JavaScript](https://img.shields.io/badge/JavaScript-Avançado-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-Intermediário-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Intermediário-3178C6?logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-Intermediário-777BB4?logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
 #### Tecnologias Frontend
-![React](https://img.shields.io/badge/React-Avançado-61DAFB?logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-Especialista-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Avançado-1572B6?logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Avançado-38B2AC?logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 
 #### Backend & Bancos de Dados
-![Node.js](https://img.shields.io/badge/Node.js-Avançado-339933?logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-Intermediário-000000?logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Intermediário-47A248?logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Avançado-336791?logo=postgresql&logoColor=white)
-
-### 🚧 Projetos Principais
-
-#### 1. [Nome do Projeto]
-- Breve descrição do projeto
-- Tecnologias: React, Node.js, PostgreSQL
-- [Link para o Repositório do Projeto]
-
-#### 2. [Nome de Outro Projeto]
-- Breve descrição do projeto
-- Tecnologias: Python, Flask, MongoDB
-- [Link para o Repositório do Projeto]
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 
 ### 🌱 Jornada de Aprendizado
 **Explorando Atualmente:**
