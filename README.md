@@ -10,7 +10,7 @@ I want to make a difference in people's lives, save lives and make development p
 * 🖥️  See my portfolio at [https://github.com/eduardolirainfo](https://eduardolira.dev.br)
 * ✉️  You can contact me at [eduardolirainfo@gmail.com](mailto:eduardolirainfo@gmail.com)
 * 🚀  I'm currently working on [Sofis Tecnologia](https://www.sofis.com.br/)
-* 🧠  I'm learning Flask
+* 🧠  I'm learning FastApi
 
 ### Skills
 
