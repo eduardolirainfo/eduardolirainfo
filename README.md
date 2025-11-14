@@ -2,12 +2,16 @@
 
 ## 🚀 Desenvolvedor Full Stack | Programação de Software Consciente
 
+*Focado em Acessibilidade, Código Limpo e Impacto Social Positivo*
+
 Sou apaixonado por usar a tecnologia para fazer uma diferença significativa na vida das pessoas. Minha abordagem de desenvolvimento de software vai além do código — é sobre criar soluções que não são apenas funcionais, mas também propositivas e impactantes.
 
 ### 🌍 Sobre Mim
-- 📍 Baseado no Rio de Janeiro, Brasil
+- 📍 Rio de Janeiro, Brasil
 - 💼 Atualmente trabalhando na [Sofis Tecnologia](https://www.sofis.com.br/)
-- 🧠 Aprendizado Contínuo: Atualmente me aprofundando em FastAPI e expandindo minhas habilidades de desenvolvimento backend
+- 🧠 Aprendizado Contínuo: Atualmente me aprofundando em FastAPI e expandindo minhas habilidades de desenvolvimento
+
+---
 
 ### 💻 Habilidades Técnicas
 
@@ -28,6 +32,16 @@ Sou apaixonado por usar a tecnologia para fazer uma diferença significativa na 
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+
+#### Ferramentas, DevOps & Testes
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)
+
+---
 
 ### 🌱 Jornada de Aprendizado
 **Explorando Atualmente:**
@@ -35,20 +49,27 @@ Sou apaixonado por usar a tecnologia para fazer uma diferença significativa na 
 - Arquitetura de microsserviços
 - Estratégias de otimização de desempenho
 
+---
+
 ### 📊 Estatísticas do GitHub
 
 ![Estatísticas do GitHub de Eduardo](https://github-readme-stats.vercel.app/api?username=eduardolirainfo&show_icons=true&theme=radical)
 
 ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolirainfo&layout=compact&theme=radical)
 
+---
+
 ### 🤝 Vamos nos Conectar!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo_Lira-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dudulira/)
 [![GitHub](https://img.shields.io/badge/GitHub-@eduardolirainfo-181717?logo=github&logoColor=white)](https://github.com/eduardolirainfo)
-[![Twitter](https://img.shields.io/badge/Twitter-@dudulira-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/dudulira)
+
+---
 
 ### 💡 Filosofia Profissional
 "Tecnologia não é apenas sobre escrever código, mas sobre criar soluções conscientes que possam genuinamente melhorar a vida das pessoas. Cada linha de código é uma oportunidade de causar um impacto positivo."
+
+---
 
 ### Apoie Meu Trabalho
 [![Me Pague um Café](https://img.shields.io/badge/Me_Pague_Um_Café-Apoie_Meu_Trabalho-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/eduardolirainfo)
