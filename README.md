@@ -8,7 +8,6 @@ Sou apaixonado por usar a tecnologia para fazer uma diferença significativa na 
 
 ### 🌍 Sobre Mim
 - 📍 Rio de Janeiro, Brasil
-- 💼 Atualmente trabalhando na [Sofis Tecnologia](https://www.sofis.com.br/)
 - 🧠 Aprendizado Contínuo: Atualmente me aprofundando em FastAPI e expandindo minhas habilidades de desenvolvimento
 
 ---
